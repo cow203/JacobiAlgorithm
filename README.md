@@ -3,7 +3,7 @@
 
 Python code implementing the Jacobi algorithm (An example of an iterative method)
 
-This project has been created for: 
+This project was created for: 
 ECM3428 - Algorithms that Changed the World
 
 
