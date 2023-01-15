@@ -1,0 +1,14 @@
+# Please write your matrix A in the form [[n, n, ...], [n, n, ...], ...]
+[[12.2, 4, 7], [3, 7, 2], [2, 9, 14]]
+
+# Please write your vector b in the form [n, n, ...]
+[5, 6, 12]
+
+# Please write your initial guess vector x in the form [n, n, ...]
+[1, 2, 3]
+
+# Please write the maximum number of iterations as an integer
+100000
+
+# Please write the error tolerance as a decimal
+0.0001
