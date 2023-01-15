@@ -20,3 +20,9 @@ Running the program without any system arguments will generate random, valid inp
 
 Running the program with a valid filename as an argument (adhering to the format shown in the provided InputFile.txt) 
 will use those inputs instead (after testing that they are valid and the Jacobi algorithm will converge).
+
+## Also Included
+
+Report PDF and video explaining the Jacobi algorithm and its use cases.
+
+Input File showing a standard template for the algorithm
